@@ -1,0 +1,271 @@
+*{
+	box-sizing:border-box;
+}
+body{
+	margin:0;
+	padding:0;
+}
+.container{
+	max-width:1500px;
+	margin:auto;
+}
+.canvas-1{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+}
+nav a{
+	text-decoration:none;
+	color:black;
+}
+.whatsapp{
+	font-size:20px;
+}
+.banner{
+	display:flex;
+	justify-content:space-between;
+}
+.back{
+	background-image:url("../asset/image/asset 20.svg");
+	width:100%;
+	height:100vh;
+	background-color:#fde3a1;
+	z-index:-1;
+	background-size:cover;
+}
+.fish{
+	padding-left:1500px;
+}
+.button{
+	border:1px solid blue;
+	padding:10px;
+	text-decoration:none;
+	color:white;
+	background-color:blue;
+}
+.button-1{
+	border:1px solid white;
+	padding:10px;
+	text-decoration:none;
+	color:black;
+	background-color:white;
+}
+.title{
+	font-size: 23px;
+	color: #6953A8;
+	
+}
+.games{
+	font-size:15px;
+	color:grey;
+	margin-right:100px;
+}
+.banner1{
+	background-color:#eddee6;
+	border-radius: 20px;
+    padding:36px;
+	margin-left:100px;
+}
+.we{
+	max-width:1500px;
+	margin:auto;
+}
+.abc{
+	display:flex;
+	text-align:center;
+	max-width:550px;
+	margin:auto;
+	justify-content:space-between;
+}
+.abc p{
+	line-height:0px;
+}
+.abc h6{
+	line-height:0px;
+}
+.content{
+	border-radius: 20px;
+    font-family: roboto;
+    font-size: 20px;
+	background-color:#547794; 
+	color:#F6F3EE;
+	padding:10px;
+}
+.content1{
+	border-radius: 20px;
+    font-family: roboto;
+    font-size: 20px;
+	background-color:#FABB7C; 
+	color:#9F4035;
+	padding:10px;
+}
+.content2{
+	border-radius: 20px;
+    font-family: roboto;
+    font-size: 20px;
+	background-color:#cedab0;
+	color:#3e540d;
+	padding:10px;
+}
+.content3{
+	border-radius: 20px;
+    font-family: roboto;
+    font-size: 20px;
+	background-color:#EDDEE6;
+	color:#A84B9D;
+	padding:10px;
+}
+.details{
+	display:flex;
+	justify-content:space-between;
+	margin:15px;
+}
+.back1{
+	background-image:url("../asset/image/asset 20.svg");
+}
+.we1{
+	max-width:1500px;
+	margin:auto;
+}
+.me{
+	border:1px solid white;
+	background-color:white;
+	border-radius:15px;
+	padding:15px;
+}
+.we2{
+	background-color:#6953A8;
+	border-radius:10px;
+	padding:35px;
+	text-align:center;
+}
+.text1{
+	max-width:1500px;
+	margin:auto;
+}
+.video{
+	display:flex;
+}
+.img{
+	padding-top:50px;
+}
+.abc3{
+	text-decoration:none;
+	border:1px solid black;
+	padding:10px;
+	border-radius:10px;
+	color:black;
+}
+.child{
+	max-width:1500px;
+	margin:auto;
+}
+.child-play{
+	display:flex;
+	justify-content:space-between;
+}
+.img1 img{
+	border-radius:10px;
+}
+.color{
+	background-image:url("../asset/image/asset 20.svg");
+}
+.f{
+	max-width:1500px;
+	margin:auto;
+}
+.f1{
+	display:flex;
+	justify-content:space-between;
+}	
+.n a{
+	text-decoration:none;
+	color:black;
+	margin:5px;
+}
+.n{
+	padding:15px;
+}
+.form{
+	
+}
+.main{
+	max-width:1500px;
+	margin:auto;
+	display:flex;
+	justify-content:space-between;
+}
+.b a{
+	text-decoration:none;
+	padding:10px;
+	color:white;
+	font-size:15px;
+}
+.b{
+	background-color:#6953A8;
+	padding:15px;
+	border:1px solid #6953A8;
+	border-radius:10px;
+	width:155px;
+	margin-left:300px;
+}
+.email{
+	
+}
+.A a{
+	text-decoration:none;
+	background-color:black;
+	color:white;
+	border:1px solid black;
+	padding:10px;
+}
+.A{
+	border: 1px solid;
+    max-width:800px;
+	margin-top:40px;
+	display:flex;
+}
+.addres{
+    width: 1000px;
+    justify-content: center;
+    display: flex;
+	background-color:rgb(13, 110 ,253);
+	border-radius:10px;
+	margin-top:100px;
+	text-align:center;
+	padding:100px 150px;
+	margin-left: 500px;
+	background-image:url(canvasschool\asset\image\subscribe-bg.svg);
+}
+.center{
+	display:flex;
+	background-image:url("../asset 25.png");
+	background-size:cover;
+	justify-content:space-evenly;
+	padding-bottom:500px;
+	padding-top:210px;
+	background-repeat:no-repeat;
+	width:100%;
+	height:100%;
+}
+.C a{
+	text-decoration:none;
+	color:black;
+	padding:5px;
+}
+.center ul li{
+	list-style-type:none;
+}
+li a{
+	padding-right:100px;
+	text-decoration:none;
+	color:black;
+}
+.right{
+	text-align:center;
+	background-color:grey;
+	padding:20px;
+}
+.center h3{
+	padding-left:20px;
+}
